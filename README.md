@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://surajchathiri.github.io/myportfolio">
+<a href="https://surajchathiri.github.io/surajchathiri./">
   <img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 &nbsp;
@@ -253,7 +253,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-suraj.chathiri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suraj.chathiri@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://surajchathiri.github.io/myportfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://surajchathiri.github.io/surajchathiri./)
 
 <br/><br/>
 
